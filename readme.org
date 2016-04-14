@@ -4,6 +4,6 @@ If you are new here, you are expected to check :
 - [[./docs/philosophy.org][docs/philosophy.org]]
 - [[./docs/links.org][docs/links.org]]
 - [[./docs/what-to-learn.org][docs/what-to-learn.org]]
-- [[./docs/readme-first-before-asking-questions.org][docs/read-me-first-before-asking-questions.org]]
+- [[./docs/read-me-first-before-asking-questions.org][docs/read-me-first-before-asking-questions.org]]
 
 Mailing List : [[https://www.freelists.org/list/panimalarlug][PanimalarLUG@freelists.org]]

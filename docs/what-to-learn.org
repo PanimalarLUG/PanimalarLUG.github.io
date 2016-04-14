@@ -1,0 +1,82 @@
+* What to learn ?
+** Artwork
+- [[https://inkscape.org/en/learn/tutorials/][Inkscape]]
+- [[https://www.gimp.org/tutorials/][GIMP]]
+- [[https://www.blender.org/support/tutorials/][Blender]]
+** Documentation / Presentation
+- [[https://wiki.archlinux.org/index.php/TeX_Live][LaTeX]]
+- firefox (to view pdfs)
+** File Management
+- [[http://ohmyz.sh/][ZSH]]
+- [[http://ranger.nongnu.org/][Ranger]]
+** Mail
+- [[https://www.emacswiki.org/emacs/GnusTutorial][Emacs Gnus]]
+- [[https://wiki.archlinux.org/index.php/alpine][Alpine]]
+- [[https://wiki.archlinux.org/index.php/mutt][Mutt]]
+** Operating Systems / Distributions
+- [[https://wiki.archlinux.org/index.php/Beginners'_guide][Arch Linux]]
+- [[https://www.gentoo.org/get-started/][Gentoo]]
+- [[https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/][FreeBSD]]
+** Privacy / Re-de-Centralization
+- [[http://www.dewinter.com/gnupg_howto/english/GPGMiniHowto.html][GPG]]
+- [[https://www.torproject.org/][Tor]] / [[https://tails.boum.org/][Tails]] GNU/Linux
+- [[https://geti2p.net/en/][i2p]]
+- [[https://zeronet.io/][ZeroNet]]
+- [[https://ipfs.io/][IPFS]]
+** Programming
+*** Languages
+- [[https://en.wikipedia.org/wiki/Brainfuck][Brain Fuck]]
+- [[http://learnyouahaskell.com/chapters][Haskell]]
+  - [[http://www.yesodweb.com/][Yesod]]
+  - [[http://elm-lang.org/][Elm]]
+- [[http://www.paulgraham.com/avg.html][Lisp]] / [[http://www.braveclojure.com/introduction/][Clojure]]
+  - [[http://www.luminusweb.net/][Luminus]]
+  - [[https://github.com/Day8/re-frame][re-frame]] / [[https://github.com/Day8/re-com][re-com]]
+- [[http://www.lua.org/pil/contents.html][Lua]]
+  - [[http://leafo.net/lapis/][Lapis]]
+- [[http://elixir-lang.org/getting-started/introduction.html][Elixir]]
+  - [[http://www.phoenixframework.org/][Phoenix]]
+*** Editors
+- [[http://www.gnu.org/software/emacs/tour/][Emacs]]
+- [[https://www.linux.com/learn/vim-101-beginners-guide-vim][VIm]]
+*** IDE
+( [[http://batsov.com/articles/2011/11/19/why-emacs/][Choose any one from Editors section and stick to it for rest of your
+ life]], NEVER EVER EVER think of using an IDE!! )
+** Version Control
+- [[https://magit.vc/][Magit]]
+** Web Clients
+- [[https://mason-larobina.github.io/luakit/][LuaKit]]
+- [[http://portix.bitbucket.org/dwb/][DWB]]
+- [[http://elinks.or.cz/][Elinks]]
+** Window Management
+- [[http://dwm.suckless.org/][DWM]]
+- [[https://awesome.naquadah.org/][AwesomeWM]]
+- [[http://xmonad.org/][XMonad]] + [[https://wiki.archlinux.org/index.php/dmenu][dmenu]]
+- [[https://wiki.archlinux.org/index.php/i3][i3]]Wm
+- [[https://github.com/stumpwm/stumpwm][StumpWM]]
+* Learn how to Learn
+- Stalk projects of your interest on [[github.com][github]].
+- Follow relevant tags in [[http://stackoverflow.com/][StackOverflow]] and try involving in
+  discussions.
+- Follow discussions on [[https://functionalprogramming.slack.com/messages][slack]].
+- Follow relevant [[https://www.reddit.com/][sub-reddits]] like r/programming, r/technology,
+  r/darknetplan, etc
+- Follow relevant people / topics in [[https://www.quora.com/][Quora]].
+- Follow relevant people / hashtags in [[https://twitter.com/][Twitter]] and tweet with relevant
+  tags when you learn something.
+- Have a fb account not to post every fucking moment of your life but
+  to join groups filled with intellectuals / progressive minds and to
+  follow actually useful pages. Un-follow everyone in your
+  friend-list. Mute your chat for everyone.
+- *Use of any of above closed systems are highly objected by Free
+  Software Philosophy but at times you may need it til you feel like
+  you can stand by yourself*.
+- [[https://pages.github.com/][Create a blog]] and write down whatever you learn on daily/weekly
+  basis.
+- Have the right people around you creating your own virtual
+  space. You may not understand what it is but always be curious on
+  what everyone around you talk about.
+- Be nice to people!! Don't ask questions when you have documentation
+  / manual. Others time is as valuable as your laziness.
+- Being driven by "Being technical is cool" just don't work! One
+  should rather be driven by Philosophy and Technology.

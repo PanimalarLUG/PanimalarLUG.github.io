@@ -1,0 +1,18 @@
+* Local F/OSS communities
+- [[https://fsftn.org/][Free Software Foundation of Tamil Nadu]] (FSFTN)
+- [[http://ilugc.in/][Indian Linux Users Group Chennai]] (ILUG-C)
+* GNU/Linux 
+- [[http://distrowatch.com/][List of GNU/Linux Distributions]]
+* Questions
+- F/OSS
+  - [[http://www.freelists.org/list/panimalarlug][PanimalarLUG mailing list]]
+  - [[https://discuss.fsftn.org/][FSFTN Discussion Forum]]
+  - [[http://www.freelists.org/list/ilugc][ILUG-C mailing list]]
+- Programming
+  - [[http://stackoverflow.com/][StackOverflow]]
+- Other
+  - [[https://www.quora.com/][Quora]]
+  - [[http://stackexchange.com/][StackExchange]]
+* News
+- [[https://news.ycombinator.com/][Hacker News]]
+- [[https://www.reddit.com/r/linux][/r/linux]]

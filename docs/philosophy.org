@@ -1,0 +1,20 @@
+* What is Free(dom) Software ?
+- [[https://www.youtube.com/watch?v=7ZSPf7YnGfE][For A Free Digital Society]]
+- [[https://www.youtube.com/watch?v=BGTgx0QWv4Y][Richard M Stallman in India talking about Free Software]]
+- [[https://www.youtube.com/watch?v=ztd9m71Jc-Y][What should be the rules of society be for using software]] ?
+- [[https://www.youtube.com/watch?v=_Ii78T0Ge_Q][Freedom in your computer and in the net]] 
+* Copyright and Patents
+- [[https://www.youtube.com/watch?v=LqfhSF4zP8A][Why Copyright is bad for us ?]]
+- [[https://www.youtube.com/watch?v=aiKRt3-FbM0][The Danger of Software Patents]]
+- [[https://www.youtube.com/watch?v=NdLrhtl9jBQ][What Really Matters in Software Copyright ?]]
+* Documentaries 
+- [[https://www.youtube.com/watch?v=k84FMc1GF8M][Revolution OS]]
+- [[https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz][The Internet's Own Boy]]
+- [[https://www.youtube.com/watch?v=eTOKXCEwo_8][The Pirate Bay Away From Keyboard]]
+- [[https://freedocumentaries.org/documentary/terms-and-conditions-may-apply][Terms and Conditions May Apply]]
+- [[https://www.youtube.com/watch?v=XEVlyP4_11M][Government Surveillance]]
+- [[http://www.ted.com/talks/glenn_greenwald_why_privacy_matters?language=en][Why privacy matters]]
+- [[https://donottrack-doc.com/en/episodes/][Do Not Track]]
+- [[http://www.ted.com/talks/edward_snowden_here_s_how_we_take_back_the_internet#t-168639][Here's how we take back the Internet]]
+* Other Links
+- [[http://www.fsmi.in/][Free Software Movement of India]] 

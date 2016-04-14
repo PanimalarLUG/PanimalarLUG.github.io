@@ -1,0 +1,23 @@
+* FAQs
+Q. Who can join PLUG mailing list ?
+
+A. PLUG mailing list (PanimalarLUG@freelists.org) is communication
+   channel for PLUG members, though anyone who is interested to share
+   knowledge is welcome there.
+
+Q. Is PanimalarLUG affiliated to college management ? 
+
+A. Nope. Due to inaccessibility to available infrastructure,
+   Totalitarianism and lack of free collaboration inside college
+   premises, PanimalarLUG functions autonomous and work with other
+   local F/OSS communities to spread ideals of Free Software and Free
+   culture.
+
+Q. I have no damn idea what you are talking about!
+
+A. You may have to check [[./philosophy.org][docs/philosophy.org]]
+
+Q. Will I get a certificate for doing anything here ?
+
+A. The so called certificate is nothing more than a useless color
+   xerox. GROW UP!!
